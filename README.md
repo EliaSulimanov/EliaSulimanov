@@ -1,5 +1,5 @@
 ### Hi, I'm Elia 👋
-<img src="Elia.png" align="right" width="40%" height="40%">
+<img src="https://raw.githubusercontent.com/EliaSulimanov/EliaSulimanov/master/Elia.png" align="right" width="40%" height="40%">
 I'm a student at The Technion.
 I like to discover new hiking trails, play the bass and solve problems using code.  
 <ul>
