@@ -13,7 +13,7 @@ I like to discover new hiking trails, play the bass and solve problems using cod
 
 ## Cool Projects of Mine
 <ul>
-  <li>🧰 <a href="https://github.com/EliaSulimanov/MTM-final">GCalc - Graph Calculator</a> - Introduction to System Programming class final project</li>
+  <li>🌳 <a href="https://github.com/EliaSulimanov/MTM-final">GCalc - Graph Calculator</a> - Introduction to System Programming class final project</li>
   <li>🧰 <a href="https://github.com/EliaSulimanov/MakeAMake">Make A Make</a> - Automatic makefile generator</li>
   <li>🧮 <a href="https://github.com/EliaSulimanov/PyCulator">PyCulator - Python Calculator</a> - It has some nice UI</li>
   <li>✈️ <a href="https://github.com/EliaSulimanov/Cessna-182-Lights">Cessna 182 Lights</a> - Lights module for my RC plane</li>
