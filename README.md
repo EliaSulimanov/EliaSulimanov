@@ -6,7 +6,6 @@ I like to discover new hiking trails, play the bass and solve problems using cod
   <li>🔭 I’m currently working on documenting the Cosmos project, creating the API and writing wiki articles.</li>
   <li>📓 I'm currently learning Node.js.</li>
   <li>💬 Ask me about Arduino development, C, Java.</li>
-  <li>📫 How to reach me: <a href="mailto:mailto:elia.sulimanov@gmail.com">elia.sulimanov@gmail.com</a></li>
   <li>😄 Pronouns: he/him</li>
   <li>🚶 Fun fact: I love hiking and camping.</li>
 </ul>
